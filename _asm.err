@@ -1,0 +1,17 @@
+Creating   'search.eep'
+Creating   'search.hex'
+Creating   'search.obj'
+Creating   'search.lis'
+Creating   'search.map'
+
+Assembling 'search.asm'
+Including  'C:\VMLAB\include\m32def.inc'
+
+Program memory usage:
+Code             :   47 words
+Constants (dw/db):   32 words
+Unused           :    0 words
+Total            :   79 words
+
+Assembly complete with no errors.
+Deleting   'search.eep'
